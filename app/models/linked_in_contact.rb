@@ -1,0 +1,2 @@
+class LinkedInContact < ApplicationRecord
+end
